@@ -1,0 +1,18 @@
+=== CodeAlpha Stock Portfolio Tracker ===
+Available stocks: AAPL, TSLA, MSFT, GOOGL, AMZN
+
+Enter stock symbol (or 'done' to finish): AAPL
+Enter quantity: 5
+AAPL: 5 × $180.00 = $900.00
+
+Enter stock symbol (or 'done' to finish): TSLA
+Enter quantity: 2
+TSLA: 2 × $250.00 = $500.00
+
+Enter stock symbol (or 'done' to finish): done
+
+--- Portfolio Summary ---
+AAPL: 5 shares × $180.00 = $900.00
+TSLA: 2 shares × $250.00 = $500.00
+Total Investment Value: $1400.00
+Portfolio saved to portfolio.csv
